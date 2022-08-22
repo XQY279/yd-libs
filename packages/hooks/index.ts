@@ -1,3 +1,3 @@
-const hook = 2
+const hook = 2;
 
-export default hook
+export default hook;
