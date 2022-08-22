@@ -1,18 +1,17 @@
 {
   "name": "@yd/components",
   "type": "module",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
-    "@yd/hooks": "^1.0.1"
+    "@yd/hooks": "^1.0.2"
   },
   "gitHead": "f4bd230c7bfffff92ef0e22083bfc82118837fcc"
 }
