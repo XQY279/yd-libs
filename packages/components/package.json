@@ -10,5 +10,6 @@
     "@yd/hooks": "^1.0.4",
     "class-variance-authority": "^0.7.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "54591d5c858cdf449044947c6f5710179efbdde5"
 }
