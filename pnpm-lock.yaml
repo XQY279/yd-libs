@@ -87,7 +87,7 @@ importers:
   packages/components:
     dependencies:
       '@yd/hooks':
-        specifier: workspace:^
+        specifier: ^1.0.3
         version: link:../hooks
       class-variance-authority:
         specifier: ^0.7.0
