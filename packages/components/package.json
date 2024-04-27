@@ -1,13 +1,13 @@
 {
   "name": "@yd/components",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
   "dependencies": {
-    "@yd/hooks": "^1.0.3",
+    "@yd/hooks": "^1.0.4",
     "class-variance-authority": "^0.7.0"
   },
   "license": "MIT"
