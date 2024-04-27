@@ -1,7 +1,7 @@
 import "./button.css";
 import { cva } from "class-variance-authority";
 
-interface ButtonProps {
+export interface ButtonProps {
   /**
    * Is this the principal call to action on the page?
    */
