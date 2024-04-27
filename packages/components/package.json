@@ -6,9 +6,9 @@
   "scripts": {},
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@yd/hooks": "workspace:^",
+    "@yd/hooks": "^1.0.2",
     "class-variance-authority": "^0.7.0"
-  }
+  },
+  "license": "MIT"
 }
