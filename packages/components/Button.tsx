@@ -33,7 +33,7 @@ export const Button = ({
   const buttonClasses = cva(["border rounded"], {
     variants: {
       variant: {
-        primary: "bg-blue-400 text-white hover:bg-blue-700",
+        primary: "bg-blue-500 text-white hover:bg-blue-700",
         secondary: "bg-gray-500 text-white hover:bg-gray-700",
       },
       size: {
